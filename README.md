@@ -19,4 +19,4 @@ This results are very close to the real values:
 `a: 2, b: 1, c: 0`
 
 ### Note
-The parameter passed to GradientDescentOptimizer could cause the algorithm to diverge. Try 0.01 in this code and see what happens.
+The parameter passed to GradientDescentOptimizer is the learning rate and inappropriate values could cause the algorithm to diverge. Try 0.01 in this code and see what happens.
